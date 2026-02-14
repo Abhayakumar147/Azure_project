@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-ansh-1st",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "77ea6137-af0d-4889-a4d1-63c31b327f42",
+		"tenantId": "88424672-1368-4ba1-933e-3570ed3d8a85"
+	}
+}
